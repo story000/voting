@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/story000/voting/static/css/main.bca2956b.css",
-    "main.js": "/story000/voting/static/js/main.85c01ac1.js",
-    "static/js/787.ee04e7c1.chunk.js": "/story000/voting/static/js/787.ee04e7c1.chunk.js",
-    "index.html": "/story000/voting/index.html",
-    "main.bca2956b.css.map": "/story000/voting/static/css/main.bca2956b.css.map",
-    "main.85c01ac1.js.map": "/story000/voting/static/js/main.85c01ac1.js.map",
-    "787.ee04e7c1.chunk.js.map": "/story000/voting/static/js/787.ee04e7c1.chunk.js.map"
+    "main.css": "/voting/static/css/main.bca2956b.css",
+    "main.js": "/voting/static/js/main.bb2c65d5.js",
+    "static/js/787.ee04e7c1.chunk.js": "/voting/static/js/787.ee04e7c1.chunk.js",
+    "index.html": "/voting/index.html",
+    "main.bca2956b.css.map": "/voting/static/css/main.bca2956b.css.map",
+    "main.bb2c65d5.js.map": "/voting/static/js/main.bb2c65d5.js.map",
+    "787.ee04e7c1.chunk.js.map": "/voting/static/js/787.ee04e7c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bca2956b.css",
-    "static/js/main.85c01ac1.js"
+    "static/js/main.bb2c65d5.js"
   ]
 }
